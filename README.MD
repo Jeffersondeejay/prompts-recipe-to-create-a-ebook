@@ -36,19 +36,24 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Prompt: Crie um título de um e-book sobre como aproveitar os comandos prompts com IA para iniciantes em TI, aperfeiçoar o aprendizado, o nicho é programação, e o subnicho é prompts, o título deve ser épico e curto, e tenha uma temática didática e de gestão para novos aprendizados, liste 5 sugestões de títulos.|
+|  título  | Crie um título de um e-book sobre como aproveitar os comandos prompts com IA para iniciantes em TI, aperfeiçoar o aprendizado, o nicho é programação, e o subnicho é prompts, o título deve ser épico e curto, e tenha uma temática didática e de gestão para novos aprendizados, liste 5 sugestões de títulos.|
 
+|  Conteúdo  | Faça um texto para e-book, com foco em prompts com IA para iniciantes em TI, listando as principais técnicas de comandos de prompts para despertar o novo programador de TI ao Expert, utilizando técnicas com (resumo, roteiro e regras) e a habilidade de atuação dos chatbot como professor didático e gestor).O título é : Do Zero ao Expert: Desbloqueie seu Potencial em Programação com IA. {REGRAS} > Explique de maneira simples e bem didática, para iniciantes.> Deixe o texto enxuto > Sempre traga prompts em contextos reais > Sempre deixe um título sugestivo por tópico. |Faça um texto para e-book, sobre Negócios Inteligentes: O Poder da IA na Era dos Dados, listando os principais bancos de dados, utilizando técnicas com (ressumo, roteiro e regras) e a habilidade de atuação dos chatbot como gestor de negócios visionário. O título é: Negócios Inteligentes: O Poder da IA na Era dos Dados. {REGRAS} > Explique de maneira simples e bem didática, para iniciantes. > Deixe o texto enxuto > Sempre traga prompts em contextos reais > Sempre deixe um título sugestivo por tópico.|
 
-Midjourney：
+|  Rodapé  | Crie frases para o rodapé de acordo com os títulos|
+
+| Agradecimento  | Crie um agradecimento final informando que o e-book foi gerado por IA, e diagramado por humano.|
+
+Gemini：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| Imagem da Capa | Crie uma imagem  que mostre um laptop com a frase "AI CHAT" na tela, com uma pessoa digitando no teclado. O fundo deve exibir gráficos e elementos tecnológicos, sugerindo um ambiente moderno. |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Gemini
 
 ## 📚 Materiais
 
