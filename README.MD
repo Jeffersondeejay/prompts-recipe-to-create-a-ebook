@@ -26,7 +26,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Gemini](https://www.gemini.google.com/app/)
+- [Gemini](https://www.gemini.google.com/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoin)
 
 ## 🧠 Prompts
