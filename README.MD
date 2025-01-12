@@ -78,7 +78,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     <a href="https://github.com/Jeffersondeejay">
     GitHub</a>&nbsp;|&nbsp;
     <a href="http://www.linkedin.com/in/
-https://www.linkedin.com/in/jefferson-rocha-dee-jay-3ab263303/">LinkedIn</a>
+jefferson-rocha-dee-jay-3ab263303/">LinkedIn</a>
 &nbsp;|&nbsp;
     <a href="https://www.instagram.com/felipeaguiar.exe/">
     Instagram</a>
