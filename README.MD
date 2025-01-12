@@ -73,7 +73,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/193290266?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspJefferson<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/Jeffersondeejay">
     GitHub</a>&nbsp;|&nbsp;
@@ -89,4 +89,4 @@ jefferson-rocha-dee-jay-3ab263303/">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Jeffsron](https://github.com/Jeffersondeejay)
